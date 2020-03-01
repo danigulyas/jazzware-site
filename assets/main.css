@@ -18,13 +18,6 @@ body {
   box-sizing: inherit;
 }
 
-.notfound {
-  max-width: 1300px;
-  min-height: calc(100vh - 64px);
-  margin: 0 auto;
-  padding: 30px;
-}
-
 main {
   max-width: 1300px;
   min-height: calc(100vh - 64px);
@@ -49,20 +42,8 @@ p {
   margin-bottom: 10px;
 }
 
-ul {
-  list-style-type: circle;
-  list-style-position: inside;
-  margin: 10px 0;
-}
-
 .projects {
   margin-top: 50px;
-}
-
-.stars {
-  margin-left: 7px;
-  font-size: 14px;
-  color: #8f8f8f;
 }
 
 .tech {
@@ -72,24 +53,6 @@ ul {
 
 .desc {
   padding-left: 20px;
-}
-
-.links {
-  margin-top: 20px;
-}
-
-.links a {
-  margin-right: 10px;
-}
-
-.picture {
-  max-width: 400px;
-  width: 100%;
-}
-
-.avatar {
-  width: 128px;
-  border-radius: 100%;
 }
 
 footer {
